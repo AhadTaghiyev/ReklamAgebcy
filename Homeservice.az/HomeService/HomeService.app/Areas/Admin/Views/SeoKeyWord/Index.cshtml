@@ -1,0 +1,23 @@
+﻿@model SeoKeyWordGetDto
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container">
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+         
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>@Model.Name</th>
+                <td><a asp-controller="SeoKeyWord" asp-action="Update" asp-route-id="@Model.Id"><i class="fas fa-edit text text-primary"></i></a></td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>

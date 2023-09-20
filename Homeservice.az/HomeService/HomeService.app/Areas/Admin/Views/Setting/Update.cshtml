@@ -1,0 +1,200 @@
+﻿@model SettingVM
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <h1 class="mb-5">HomeService Tənzimləmələr</h1>
+            <div class="row">
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.PostDto.Logo">Logo</label>
+                    <input asp-for="@Model.PostDto.Logo" accept="image/*" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.Logo"></span>
+                    <p style="margin-top:15px;">Exsist Logo</p>
+                    <img style="margin-top:15px; display:block;" width="200" src="~/design/@Model.GetDto.Logo" />
+                </div>
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.PostDto.IntroImage">Giriş Şəkli</label>
+                    <input asp-for="@Model.PostDto.IntroImage" accept="image/*" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.IntroImage"></span>
+                    <p style="margin-top:15px;">Exsist Logo</p>
+                    <img style="margin-top:15px; display:block;" width="200" src="~/assets/images/hero/@Model.GetDto.IntroImage" />
+                </div>
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.PostDto.AboutImage">Haqqında Şəkli</label>
+                    <input asp-for="@Model.PostDto.AboutImage" accept="image/*" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.AboutImage"></span>
+                    <p style="margin-top:15px;">Exsist Logo</p>
+                    <img style="margin-top:15px; display:block;" width="200" src="~/assets/images/about/@Model.GetDto.AboutImage" />
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Giriş Başlığı Az</label>
+                    <input id="IntroTitleAz" name="PostDto.LanguageText" type="text" class=" form-control " value="@Model.GetDto.IntroTitleAz">
+                    <input class="d-none" name="PostDto.LanguageTextKey" value="IntroTitleAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Giriş Başlığı En</label>
+                    <input  name="PostDto.LanguageText" type="text" class=" form-control " value="@Model.GetDto.IntroTitleEn">
+                    <input class="d-none" style="visibility:hidden" name="PostDto.LanguageTextKey" value="IntroTitleEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Giriş Başlığı Ru</label>
+                    <input id="IntroTitleRu" name="PostDto.LanguageText" type="text" class=" form-control " value="@Model.GetDto.IntroTitleRu" >
+                    <input class="d-none" name="PostDto.LanguageTextKey" value="IntroTitleRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Giriş Mətni Az</label>
+                    <textarea id="IntroTextAz" name="PostDto.LanguageText" type="text" class=" form-control ">@Model.GetDto.IntroTextAz</textarea>
+                    <input class="d-none" name="PostDto.LanguageTextKey" value="IntroTextAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Giriş Mətni En</label>
+                    <textarea id="IntroTextEn" name="PostDto.LanguageText" type="text" class=" form-control ">@Model.GetDto.IntroTextEn</textarea>
+                    <input class="d-none" style="visibility:hidden" name="PostDto.LanguageTextKey" value="IntroTextEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Giriş Mətni En</label>
+                    <textarea id="IntroTextRu" name="PostDto.LanguageText" type="text" class=" form-control ">@Model.GetDto.IntroTextRU</textarea>
+                    <input class="d-none" name="PostDto.LanguageTextKey" value="IntroTextRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Haqqında Mətni Az</label>
+                    <textarea id="DescriptionAz" name="PostDto.LanguageText" type="text" class=" form-control ">@Model.GetDto.AboutTextAz</textarea>
+                    <input class="d-none" name="PostDto.LanguageTextKey" value="AboutTextAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Haqqında Mətni En</label>
+                    <textarea id="DescriptionEn" name="PostDto.LanguageText" type="text" class=" form-control ">@Model.GetDto.AboutTextEn</textarea>
+                    <input class="d-none" name="PostDto.LanguageTextKey" value="AboutTextEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Haqqında Mətni En</label>
+                    <textarea id="DescriptionRu" name="PostDto.LanguageText" type="text" class=" form-control ">@Model.GetDto.AboutTextRU</textarea>
+                    <input class="d-none" name="PostDto.LanguageTextKey" value="AboutTextRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.LanguageText"></span>
+                </div>
+
+
+                <div class="col-md-4 mb-2 ">
+                    <label asp-for="@Model.PostDto.HomePhone">Ofis Əlaqə Nömrəsi </label>
+                    <input name="PostDto.HomePhone" value="@Model.GetDto.HomePhone" id="PhoneNumber" type="tel" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.HomePhone"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label asp-for="@Model.PostDto.CellPhone">Mobil Əlqə Nömrəsi </label>
+                    <input name="PostDto.CellPhone" value="@Model.GetDto.CellPhone" type="text" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.CellPhone"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label asp-for="@Model.PostDto.Adress">Adress </label>
+                    <input name="PostDto.Adress" value="@Model.GetDto.Adress" type="text" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.PostDto.Adress"></span>
+                </div>
+                
+
+
+                <div class="form-row col-12" id="social">
+                    @foreach (var item in Model.GetDto.SocialLinks)
+                    {
+                        <div class="form-group col-md-6" data-index="0">
+                            <label for="PostDto_SocialIcons">Social Icon</label>
+                            <input class="form-control" type="text" name="PostDto.SocialIcons" value="@item.SocialIcons">
+                            <span class="text-danger field-validation-valid" data-valmsg-for="PostDto.SocialIcons" data-valmsg-replace="true"></span>
+                            <label for="PostDto_SocialLinks"> Social Url</label>
+                            <input class="form-control" type="text" name="PostDto.SocialLinks" value="@item.SocialLinks">
+                            <span class="text-danger field-validation-valid" data-valmsg-for="PostDto.SocialLinks" data-valmsg-replace="true"></span>
+                            <span><i style="cursor:pointer" class="fas fa-minus delete-feature"> </i></span>
+                        </div>
+
+                    }
+                </div>
+                <div class="form-row justify-content-center">
+                    <div class="form-group">
+                        <button data-nextIndex="2" class="add-social btn btn-primary">+</button>
+                    </div>
+                </div>
+
+                <div class="col-md-12 mt-3">
+                    <a class="btn btn-dark" asp-controller="setting" asp-action="index"><i class="fas fa-undo"></i> Geriyə</a>
+                    <button type="submit" class="btn btn-primary">Dəyişikliyi Qeyd Et</button>
+                </div>
+            </div>
+
+
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}
+
+
+@section Script{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(document).on("click", ".add-social", function (e) {
+                e.preventDefault();
+                var nextIndex = $(this).attr("data-nextIndex");
+                var inputGroup = `
+             <div class="form-group col-md-6" data-index="0">
+                            <label for="PostDto_SocialIcons">Social Icon</label>
+                            <input class="form-control" type="text"  name="PostDto.SocialIcons" value="">
+                            <span class="text-danger field-validation-valid" data-valmsg-for="PostDto.SocialIcons" data-valmsg-replace="true"></span>
+                            <label for="PostDto_SocialLinks"> Social Url</label>
+                            <input class="form-control" type="text"  name="PostDto.SocialLinks" value="">
+                            <span class="text-danger field-validation-valid" data-valmsg-for="PostDto.SocialLinks" data-valmsg-replace="true"></span>
+                            <span><i style="cursor:pointer" class="fas fa-minus delete-feature"> </i></span>
+                        </div>
+        `
+                $("#social").append($(inputGroup))
+                nextIndex = +nextIndex + 1;
+                console.log(nextIndex)
+                $(this).attr("data-nextIndex", nextIndex)
+            })
+            $(document).on("click", ".delete-feature", function (e) {
+                e.preventDefault();
+                $(this).parents(".form-group").empty();
+            })
+        })
+    </script>
+
+    <script src="~/ckeditor/ckeditor.js"></script>
+    <script>
+
+        CKEDITOR.replace("IntroTextAz")
+        CKEDITOR.replace("IntroTextEn")
+        CKEDITOR.replace("IntroTextRu")
+        CKEDITOR.replace("DescriptionAz")
+        CKEDITOR.replace("DescriptionEn")
+        CKEDITOR.replace("DescriptionRu")
+
+    </script>
+}

@@ -1,0 +1,72 @@
+﻿@model TeamVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <h1 class="mb-5">Ustunlukler Bolmesi</h1>
+
+
+            <div class="row">
+                <div class="col-md-4">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.postDto.FormFile">Image</label>
+                    <input asp-for="@Model.postDto.FormFile" accept="image/*" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.FormFile"></span>
+                </div>
+
+                <div class="col-md-4">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.postDto.FullName">FullName</label>
+                    <input asp-for="@Model.postDto.FullName" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.FullName"></span>
+                </div>
+
+
+                <div class="col-md-4 ">
+                    <label class="form-label" asp-for="@Model.postDto.PositionId">PositionName Name</label>
+                    <select class="form-select" asp-for="@Model.postDto.PositionId">
+                        @foreach (var item in ViewBag.Positions.Items)
+                        {
+                            <option value="@item.Id">@item.PositionAz</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="col-md-4">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.postDto.FacebookLink">Facobook</label>
+                    <input asp-for="@Model.postDto.FacebookLink" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.FacebookLink"></span>
+                </div>
+                <div class="col-md-4">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.postDto.InstagramLink">Instagram</label>
+                    <input asp-for="@Model.postDto.InstagramLink" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.InstagramLink"></span>
+                </div>
+                <div class="col-md-4">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.postDto.TwitterLink">Twitter</label>
+                    <input asp-for="@Model.postDto.TwitterLink" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.TwitterLink"></span>
+                </div>
+
+            </div>
+            <div class="col-md-12 mt-3">
+                <a class="btn btn-dark" asp-controller="team" asp-action="index"><i class="fas fa-undo"></i> Geriye</a>
+                <button type="submit" class="btn btn-primary">Yarat</button>
+            </div>
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+}
+
+

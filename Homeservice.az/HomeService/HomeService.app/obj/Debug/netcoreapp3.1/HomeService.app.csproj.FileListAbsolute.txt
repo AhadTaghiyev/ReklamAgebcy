@@ -1,0 +1,1077 @@
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.AssemblyReference.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfoInputs.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfo.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CoreCompileInputs.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.Manifest.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.xml
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/scopedcss/bundle/HomeService.app.styles.css
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.input.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.output.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorCoreGenerate.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.exe
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.deps.json
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.json
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.dev.json
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.genruntimeconfig.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CopyComplete
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Create.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Create.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Create.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Create.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Create.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Create.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Create.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Update.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Login.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/AdminCreate.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Message/Index.cshtml.g.cs
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.az.resources
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.en-Us.resources
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.az.resources
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.en-US.resources
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.GenerateResource.cache
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.ru-RU.resources
+C:/Users/HP/source/repos/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.exe
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.deps.json
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.json
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.dev.json
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.AssemblyReference.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.az.resources
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.en-Us.resources
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.az.resources
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.en-US.resources
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.ru-RU.resources
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.GenerateResource.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfoInputs.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfo.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CoreCompileInputs.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.Manifest.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.xml
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/scopedcss/bundle/HomeService.app.styles.css
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.input.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.output.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorCoreGenerate.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/AdminCreate.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Login.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Message/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CopyComplete
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.genruntimeconfig.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Blogs.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Details.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Create.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Index.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Update.cshtml.g.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.exe
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.deps.json
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.json
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.dev.json
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.AssemblyReference.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.az.resources
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.en-Us.resources
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.az.resources
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.en-US.resources
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.ru-RU.resources
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.GenerateResource.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfoInputs.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfo.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CoreCompileInputs.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.Manifest.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.xml
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/scopedcss/bundle/HomeService.app.styles.css
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.input.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.output.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorCoreGenerate.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/AdminCreate.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Login.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Message/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Create.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Update.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Blogs.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Details.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CopyComplete
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.genruntimeconfig.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.AssemblyReference.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.az.resources
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.en-Us.resources
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.az.resources
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.en-US.resources
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.ru-RU.resources
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.GenerateResource.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfoInputs.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfo.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CoreCompileInputs.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.exe
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.deps.json
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.json
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.dev.json
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.Manifest.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.input.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.output.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorCoreGenerate.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/AdminCreate.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Login.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Message/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Blogs.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Details.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CopyComplete
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.genruntimeconfig.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoDescription/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoDescription/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoKeyWord/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoKeyWord/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoTag/Create.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoTag/Index.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoTag/Update.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Home/NotFound.cshtml.g.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.xml
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/scopedcss/bundle/HomeService.app.styles.css
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.StaticWebAssets.xml
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.deps.json
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.json
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.runtimeconfig.dev.json
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.service.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/bin/Debug/netcoreapp3.1/HomeService.data.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.AssemblyReference.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.az.resources
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Beacon.app.Resources.SharedModelResource.en-Us.resources
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.az.resources
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.en-US.resources
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Resources.SharedResource.ru-RU.resources
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.GenerateResource.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfoInputs.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.AssemblyInfo.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CoreCompileInputs.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.MvcApplicationPartsAssemblyInfo.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorAssemblyInfo.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/az/HomeService.app.resources.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/az/HomeService.app.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/en-Us/HomeService.app.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/ru-RU/HomeService.app.resources.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.Manifest.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/HomeService.app.StaticWebAssets.Pack.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.HomeService.app.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.HomeService.app.props
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.HomeService.app.props
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.HomeService.app.props
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.input.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.TagHelpers.output.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorCoreGenerate.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/AdminCreate.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Account/Login.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Advantage/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Blog/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Comment/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Cost/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Message/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Position/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Question/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoDescription/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoDescription/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoKeyWord/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoKeyWord/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoTag/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoTag/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/SeoTag/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Service/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Setting/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Shared/_Layout.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Create.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Team/Update.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Blogs.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Blog/Details.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Home/NotFound.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.RazorTargetAssemblyInfo.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.Views.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.csproj.CopyComplete
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.app/obj/Debug/netcoreapp3.1/HomeService.app.genruntimeconfig.cache

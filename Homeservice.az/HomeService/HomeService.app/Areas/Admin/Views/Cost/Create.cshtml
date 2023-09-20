@@ -1,0 +1,136 @@
+﻿@model CostVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+
+            <div class="row">
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Başlıq Az</label>
+                    <textarea name="CostPostDto.Texts" id="TitleAz" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="CostPostDto.Keys" value="TitleAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.CostPostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label> Başlıq En</label>
+                    <textarea name="CostPostDto.Texts" id="TitleEn" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="CostPostDto.Keys" value="TitleEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.CostPostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>Başlıq Ru</label>
+                    <textarea name="CostPostDto.Texts" id="TitleRu" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="CostPostDto.Keys" value="TitleRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.CostPostDto.Texts"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Açıqlama Az</label>
+                    <textarea name="CostPostDto.Texts" id="DescriptionAz" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="CostPostDto.Keys" value="DescriptionAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.CostPostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label> Açıqlama En</label>
+                    <textarea name="CostPostDto.Texts" id="DescriptionEn" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="CostPostDto.Keys" value="DescriptionEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.CostPostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>Açıqlama Ru</label>
+                    <textarea name="CostPostDto.Texts" id="DescriptionRu" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="CostPostDto.Keys" value="DescriptionRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.CostPostDto.Texts"></span>
+                </div>
+
+
+
+
+
+                <div class="form-row col-12" id="skills">
+                   
+                        <div class="form-group col-md-6" data-index="0">
+                            <label >Skill adı</label>
+                            <input class="form-control" type="text" asp-for="CostPostDto.SkillTexts">
+                            <span class="text-danger " asp-validation-for="CostPostDto.SkillTexts"></span>
+                            <label> Skil Contenti </label>
+                            <input class="form-control" type="text" asp-for="CostPostDto.SkillContents">
+                            <span class="text-danger" asp-validation-for="CostPostDto.SkillContents"></span>
+                            <span><i style="cursor:pointer" class="fas fa-minus delete-feature"> </i></span>
+                        </div>
+
+                </div>
+                <div class="form-row justify-content-center">
+                    <div class="form-group">
+                        <button data-nextIndex="2" class="add-social btn btn-primary">+</button>
+                    </div>
+                </div>
+
+                <div class="col-md-12 mt-3">
+                    <a class="btn btn-dark" asp-controller="cost" asp-action="index"><i class="fas fa-undo"></i> Geriyə</a>
+                    <button type="submit" class="btn btn-primary">Yarat</button>
+                </div>
+            </div>
+
+
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}
+
+
+@section Script{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(document).on("click", ".add-social", function (e) {
+                e.preventDefault();
+                var nextIndex = $(this).attr("data-nextIndex");
+                var inputGroup = `
+             <div class="form-group col-md-6" data-index="0">
+                            <label>Skill adı</label>
+                            <input class="form-control" type="text"  name="CostPostDto.SkillTexts" value="">
+                            <span class="text-danger  field-validation-valid" data-valmsg-for="CostPostDto.SkillTexts" data-valmsg-replace="true"></span>
+                            <label> Skil Contenti </label>
+                            <input class="form-control" type="text"  name="CostPostDto.SkillContents" value="">
+                            <span class="text-danger field-validation-valid" data-valmsg-for="CostPostDto.SkillContents" data-valmsg-replace="true"></span>
+                            <span><i style="cursor:pointer" class="fas fa-minus delete-feature"> </i></span>
+                        </div>
+            `
+                $("#skills").append($(inputGroup))
+                nextIndex = +nextIndex + 1;
+                console.log(nextIndex)
+                $(this).attr("data-nextIndex", nextIndex)
+            })
+            $(document).on("click", ".delete-feature", function (e) {
+                e.preventDefault();
+                $(this).parents(".form-group").empty();
+            })
+        })
+    </script>
+
+    <script src="~/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("TitleAz")
+        CKEDITOR.replace("TitleEn")
+        CKEDITOR.replace("TitleRu")
+        CKEDITOR.replace("DescriptionAz")
+        CKEDITOR.replace("DescriptionEn")
+        CKEDITOR.replace("DescriptionRu")
+
+    </script>
+}
+

@@ -1,0 +1,64 @@
+﻿@model BlogGetDto
+@using HomeService.service.Dtos.BlogDto
+@inject Microsoft.Extensions.Localization.IStringLocalizer<SharedResource> localizaer
+@{
+    ViewData["Title"] = "Details";
+}
+@section Css{
+    <link rel="stylesheet" href="~/assets/css/Blog.css" />
+}
+
+<div class="main-wrapper">
+    <div class="container">
+        <div class="product-div">
+            <div class="product-div-left">
+                <div class="img-container">
+                    <img src="~/assets/images/blog/@Model.ImageFile" alt="watch">
+                </div>
+
+            </div>
+            <div class="product-div-right">
+                <span class="product-name">
+                    @if ((localizaer["Language"] == "Az"))
+                    {
+
+                        @Html.Raw(Model.TitleAz)
+                    }
+                    else if ((localizaer["Language"] == "En"))
+                    {
+
+                        @Html.Raw(Model.TitleEn)
+                    }
+                    else
+                    {
+
+                        @Html.Raw(Model.TitleRu)
+                    }
+                </span>
+
+
+                <p class="product-description">
+                    @if ((localizaer["Language"] == "Az"))
+                    {
+
+                        @Html.Raw(Model.DescriptionAz)
+                    }
+                    else if ((localizaer["Language"] == "En"))
+                    {
+
+                        @Html.Raw(Model.DescriptionEn)
+
+                    }
+                    else
+                    {
+
+                        @Html.Raw(Model.DescriptionRu)
+
+                    }
+                </p>
+
+            </div>
+        </div>
+    </div>
+</div>
+

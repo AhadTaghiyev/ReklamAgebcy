@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{10919CE1-B2CA-4657-A986-3D65578D869A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeService.app/appsettings.json">
+    <Files>
+      <File FileName="HomeService.app/appsettings.json" Line="15" Column="1" />
+      <File FileName="HomeService.app/Controllers/HomeController.cs" />
+      <File FileName="HomeService.app/Views/Shared/_Layout.cshtml" />
+      <File FileName="HomeService.app/Views/Home/Index.cshtml" />
+      <File FileName="HomeService.app/wwwroot/assets/css/styles.css" Line="34" Column="14" />
+      <File FileName="HomeService.app/wwwroot/assets/css/animate.css" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeService" expanded="True">
+            <Node name="HomeService.app" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True">
+                  <Node name="css" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HomeService.app PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

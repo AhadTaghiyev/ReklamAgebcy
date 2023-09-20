@@ -1,0 +1,50 @@
+C:/Users/HP/source/repos/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.deps.json
+C:/Users/HP/source/repos/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/source/repos/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/source/repos/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfoInputs.cache
+C:/Users/HP/source/repos/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfo.cs
+C:/Users/HP/source/repos/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.CoreCompileInputs.cache
+C:/Users/HP/source/repos/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/source/repos/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/source/repos/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.AssemblyReference.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.deps.json
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.AssemblyReference.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfoInputs.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfo.cs
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.CoreCompileInputs.cache
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/Desktop/HomeService2/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.deps.json
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.AssemblyReference.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfoInputs.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfo.cs
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.CoreCompileInputs.cache
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/HP/Desktop/New folder (6)/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.deps.json
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.AssemblyReference.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfoInputs.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfo.cs
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.CoreCompileInputs.cache
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.dll
+C:/Users/Ahad/Desktop/MyHomeService.az/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.deps.json
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/bin/Debug/netcoreapp3.1/HomeService.core.pdb
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.AssemblyReference.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfoInputs.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.AssemblyInfo.cs
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.csproj.CoreCompileInputs.cache
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.dll
+/Users/ehedtagiyev/Desktop/MyHomeService/Homeservice.az/HomeService/HomeService.core/obj/Debug/netcoreapp3.1/HomeService.core.pdb

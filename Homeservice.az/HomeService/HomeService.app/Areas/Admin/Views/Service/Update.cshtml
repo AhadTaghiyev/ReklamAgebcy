@@ -1,0 +1,94 @@
+﻿
+@model ServiceVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <h1 class="mb-5">Ustunlukler Bolmesi</h1>
+
+
+            <div class="row">
+
+                <div class="col-md-4 mb-2 ">
+                    <label>BaşlıqAz</label>
+                    <textarea id="TitleAz" name="ServicePostDto.Texts" type="text" class=" form-control ">@Model.ServicegetDto.TitleAz</textarea>
+                    <input class="d-none" name="ServicePostDto.Keys" value="TitleAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.ServicePostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>BaşlıqEn</label>
+                    <textarea id="TitleEn" name="ServicePostDto.Texts" type="text" class=" form-control ">@Model.ServicegetDto.TitleEn</textarea>
+                    <input class="d-none" name="ServicePostDto.Keys" value="TitleEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.ServicePostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>BaşlıqRu</label>
+                    <textarea id="TitleRu" name="ServicePostDto.Texts" type="text" class=" form-control ">@Model.ServicegetDto.TitleRu</textarea>
+                    <input class="d-none" name="ServicePostDto.Keys" value="TitleRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.ServicePostDto.Texts"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>AçıqlamaAz</label>
+                    <textarea id="DescriptionAz" name="ServicePostDto.Texts" type="text" class=" form-control ">@Model.ServicegetDto.DescriptionAz</textarea>
+                    <input class="d-none" name="ServicePostDto.Keys" value="DescriptionAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.ServicePostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>AçıqlamaEn</label>
+                    <textarea id="DescriptionEn" name="ServicePostDto.Texts" type="text" class=" form-control ">@Model.ServicegetDto.DescriptionEn</textarea>
+                    <input class="d-none" name="ServicePostDto.Keys" value="DescriptionEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.ServicePostDto.Texts"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>AıqlamaRu</label>
+                    <textarea id="DescriptionRu" name="ServicePostDto.Texts" type="text" class=" form-control ">@Model.ServicegetDto.DescriptionRu</textarea>
+                    <input class="d-none" name="ServicePostDto.Keys" value="DescriptionRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.ServicePostDto.Texts"></span>
+                </div>
+
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Icon</label>
+                    <input asp-for="@Model.ServicePostDto.Icon" value="@Model.ServicegetDto.Icon" type="text" class=" form-control " />
+
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.ServicePostDto.Icon"></span>
+                </div>
+
+
+
+
+                <div class="col-md-12 mt-3">
+                    <a class="btn btn-dark" asp-controller="advantage" asp-action="index"><i class="fas fa-undo"></i> Geriyə</a>
+                    <button type="submit" class="btn btn-primary">Dəyişikliyi Qeyd et</button>
+                </div>
+            </div>
+
+
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="~/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("TitleAz")
+        CKEDITOR.replace("TitleEn")
+        CKEDITOR.replace("TitleRu")
+        CKEDITOR.replace("DescriptionAz")
+        CKEDITOR.replace("DescriptionEn")
+        CKEDITOR.replace("DescriptionRu")
+
+
+
+    </script>
+}

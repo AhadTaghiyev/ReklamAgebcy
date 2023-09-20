@@ -1,0 +1,104 @@
+﻿@model BLogVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <h1 class="mb-5">Xəbərlər Bolmesi</h1>
+
+
+            <div class="row">
+                <div class="col-md-6" style="margin-bottom:40px;">
+                    <label style="margin-bottom:10px;  font-size:20px;" font-size:20px;" asp-for="@Model.postDto.ImageFile">Blog Şəkli</label>
+                    <input asp-for="@Model.postDto.ImageFile" accept="image/*" class="form-control">
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.ImageFile"></span>
+                </div>
+                <div style="margin-bottom:40px;" class="col-md-6 ">
+                    <label class="form-label" asp-for="@Model.postDto.PositionId">Pazisiya adı</label>
+                    <select class="form-select" asp-for="@Model.postDto.PositionId">
+                        @foreach (var item in ViewBag.Positions.Items)
+                        {
+                            <option value="@item.Id">@item.PositionAz</option>
+                        }
+                    </select>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label>BaşlıqAz</label>
+                    <textarea id="TitleAz" name="postDto.Texts" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="PostDto.Keys" value="TitleAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.Texts"></span>
+                </div>
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label>BaşlıqEn</label>
+                    <textarea id="TitleEn" name="postDto.Texts" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="PostDto.Keys" value="TitleEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.Texts"></span>
+                </div>
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label>BaşlıqRu</label>
+                    <textarea id="TitleRu" name="postDto.Texts" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="PostDto.Keys" value="TitleRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.Texts"></span>
+                </div>
+
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label>AçıqlamaAz</label>
+                    <textarea id="DescriptionAz" name="postDto.Texts" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="PostDto.Keys" value="DescriptionAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.Texts"></span>
+                </div>
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label>AçıqlamaEN</label>
+                    <textarea id="DescriptionEn" name="postDto.Texts" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="PostDto.Keys" value="DescriptionEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.Texts"></span>
+                </div>
+
+
+
+                <div class="col-md-4" style="margin-bottom:40px;">
+                    <label>AçıqlamaRu</label>
+                    <textarea id="DescriptionRu" name="postDto.Texts" type="text" class=" form-control "></textarea>
+                    <input class="d-none" name="PostDto.Keys" value="DescriptionRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.postDto.Texts"></span>
+                </div>
+            </div>
+
+
+            <div class="col-md-12 mt-3">
+                <a class="btn btn-dark" asp-controller="blog" asp-action="index"><i class="fas fa-undo"></i> Geriyə</a>
+                <button type="submit" class="btn btn-primary">Yarat</button>
+            </div>
+
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="~/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("TitleAz")
+        CKEDITOR.replace("TitleEn")
+        CKEDITOR.replace("TitleRu")
+        CKEDITOR.replace("DescriptionAz")
+        CKEDITOR.replace("DescriptionEn")
+        CKEDITOR.replace("DescriptionRu")
+
+
+
+    </script>
+}
+
+

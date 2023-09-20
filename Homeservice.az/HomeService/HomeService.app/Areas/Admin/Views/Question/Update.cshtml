@@ -1,0 +1,83 @@
+﻿@model QuestionVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <h1 class="mb-5">Ustunlukler Bolmesi</h1>
+
+
+            <div class="row">
+
+                <div class="col-md-4 mb-2 ">
+                    <label>SualAz</label>
+                    <textarea id="QuestionAz" name="QuestionPostDto.Text" type="text" class=" form-control ">@Model.QuestionGetDto.QuestionAz</textarea>
+                    <input class="d-none" name="QuestionPostDto.Keys" value="QuestionAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.QuestionPostDto.Text"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>SualEn</label>
+                    <textarea id="QuestionEn" name="QuestionPostDto.Text" type="text" class=" form-control ">@Model.QuestionGetDto.QuestionEn</textarea>
+                    <input class="d-none" name="QuestionPostDto.Keys" value="QuestionEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.QuestionPostDto.Text"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>SualRu</label>
+                    <textarea id="QuestionRu" name="QuestionPostDto.Text" type="text" class=" form-control ">@Model.QuestionGetDto.QuestionRU</textarea>
+                    <input class="d-none" name="QuestionPostDto.Keys" value="QuestionRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.QuestionPostDto.Text"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>CavabAz</label>
+                    <textarea id="AnswerAz" name="QuestionPostDto.Text" type="text" class=" form-control ">@Model.QuestionGetDto.AnswerAz</textarea>
+                    <input class="d-none" name="QuestionPostDto.Keys" value="AnswerAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.QuestionPostDto.Text"></span>
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>CavabEn</label>
+                    <textarea id="AnswerEn" name="QuestionPostDto.Text" type="text" class=" form-control ">@Model.QuestionGetDto.AnswerEn</textarea>
+                    <input class="d-none" name="QuestionPostDto.Keys" value="AnswerEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.QuestionPostDto.Text"></span>
+
+                </div>
+                <div class="col-md-4 mb-2 ">
+                    <label>CavabRU</label>
+                    <textarea id="AnswerRu" name="QuestionPostDto.Text" type="text" class=" form-control ">@Model.QuestionGetDto.AnswerRu</textarea>
+                    <input class="d-none" name="QuestionPostDto.Keys" value="AnswerRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.QuestionPostDto.Text"></span>
+
+                </div>
+
+
+                <div class="col-md-12 mt-3">
+                    <a class="btn btn-dark" asp-controller="question" asp-action="index"><i class="fas fa-undo"></i> Geriyə</a>
+                    <button type="submit" class="btn btn-primary">Dəyişikliyi Qeyd et</button>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="~/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("QuestionAz")
+        CKEDITOR.replace("QuestionEn")
+        CKEDITOR.replace("QuestionRu")
+        CKEDITOR.replace("AnswerAz")
+        CKEDITOR.replace("AnswerEn")
+        CKEDITOR.replace("AnswerRu")
+    </script>
+}
+
+
+

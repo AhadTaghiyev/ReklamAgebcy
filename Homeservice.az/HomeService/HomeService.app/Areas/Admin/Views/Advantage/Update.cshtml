@@ -1,0 +1,71 @@
+﻿@model AdvantagesVM
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+
+<div style="background-color:gainsboro" class="container">
+    <div class="card-body row">
+        <div class="text text-danger" asp-validation-summary="ModelOnly"></div>
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <h1 class="mb-5">Ustunlukler Bolmesi</h1>
+
+
+            <div class="row">
+
+                <div class="col-md-4 mb-2 ">
+                    <label>MətinAz</label>
+                    <textarea id="TextAz" name="AdvantagePostDto.Texts" type="text" class=" form-control ">@Model.AdvantageGetDto.TextAz</textarea>
+                    <input class="d-none" name="AdvantagePostDto.Keys" value="TextAz" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.AdvantagePostDto.Texts"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>MətinEn</label>
+                    <textarea id="TextEn" name="AdvantagePostDto.Texts" type="text" class=" form-control ">@Model.AdvantageGetDto.TextEn</textarea>
+                    <input class="d-none" name="AdvantagePostDto.Keys" value="TextEn" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.AdvantagePostDto.Texts"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Mətin Ru</label>
+                    <textarea id="TextRu" name="AdvantagePostDto.Texts" type="text" class=" form-control ">@Model.AdvantageGetDto.TextRu</textarea>
+                    <input class="d-none" name="AdvantagePostDto.Keys" value="TextRu" />
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.AdvantagePostDto.Texts"></span>
+                </div>
+
+                <div class="col-md-4 mb-2 ">
+                    <label>Icon</label>
+                    <input asp-for="@Model.AdvantagePostDto.Icon" type="text" value="@Model.AdvantageGetDto.Icon" class=" form-control " />
+
+                    <span class="mt-2 text text-danger" asp-validation-for="@Model.AdvantagePostDto.Icon"></span>
+                </div>
+
+
+
+
+                <div class="col-md-12 mt-3">
+                    <a class="btn btn-dark" asp-controller="advantage" asp-action="index"><i class="fas fa-undo"></i> Geriyə</a>
+                    <button type="submit" class="btn btn-primary">Dəyişikliyi qeyd et</button>
+                </div>
+            </div>
+
+
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" integrity="sha512-o6XqxgrUsKmchwy9G5VRNWSSxTS4Urr4loO6/0hYdpWmFUfHqGzawGxeQGMDqYzxjY9sbktPbNlkIQJWagVZQg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="~/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace("TextAz")
+        CKEDITOR.replace("TextEn")
+        CKEDITOR.replace("TextRu")
+
+
+    </script>
+}

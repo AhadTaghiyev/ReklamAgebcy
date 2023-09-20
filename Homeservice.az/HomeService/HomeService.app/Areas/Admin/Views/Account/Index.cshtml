@@ -1,0 +1,39 @@
+﻿@model List<AppUser>
+@using HomeService.core.Models
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="container">
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">Adi</th>
+                <th scope="col">Edit</th>
+
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var admin in Model)
+            {
+                <tr>
+                    <td>@admin.UserName</td>
+                    <td><a asp-controller="account" asp-action="remove" asp-route-Id="@admin.Id"><i class="fas fa-trash text text-danger"></i></a></td>
+                </tr>
+            }
+        </tbody>
+
+
+
+    </table>
+
+ 
+    <a style="display: block; text-decoration: none; color: white; width: 100%; " asp-controller="account" asp-action="AdminCreate"> <div style="width:100%; " class="btn btn-outline-success">Admin Yarat </div></a>
+
+</div>
+
